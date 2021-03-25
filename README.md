@@ -3,7 +3,7 @@ Data can be downloaded [here](https://drive.google.com/file/d/1uMuwUi-n-kklwemub
 
 ## SetUp
 ```
-conda create -n vlgrammar pytorch=1.4.0 torchvision cudatoolkit=10.0 -c pytorch
+conda create -n vlgrammar python=3.7 pytorch=1.7.1 torchvision -c pytorch
 conda activate vlgrammar
 
 pip install -r requirements.txt
