@@ -39,3 +39,4 @@ Model checkpoints can be downloaded [here](https://drive.google.com/file/d/1nA3D
 	      archivePrefix={arXiv},
 	      primaryClass={cs.CV}
 	}
+[paper](https://arxiv.org/abs/2103.12975)
