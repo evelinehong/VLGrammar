@@ -35,8 +35,9 @@ Model checkpoints can be downloaded [here](https://drive.google.com/file/d/1nA3D
 	      title={VLGrammar: Grounded Grammar Induction of Vision and Language}, 
 	      author={Yining Hong and Qing Li and Song-Chun Zhu and Siyuan Huang},
 	      year={2021},
-	      eprint={2103.12975},
-	      archivePrefix={arXiv},
-	      primaryClass={cs.CV}
+	      journal={ICCV},
 	}
 [paper](https://arxiv.org/abs/2103.12975)
+
+## Acknowledgements
+Parts of the codes are based on [vpcfg](https://github.com/zhaoyanpeng/vpcfg) and [SCAN](https://github.com/wvangansbeke/Unsupervised-Classification)
