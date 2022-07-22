@@ -1,5 +1,5 @@
 ## Data
-Data can be downloaded [here](https://drive.google.com/file/d/1uMuwUi-n-kklwemubHT_Im2curUUDW0w/view?usp=sharing)
+Data can be downloaded [here](https://drive.google.com/file/d/1DuGfZvV3RXAanR_2engzm_tZDb2LmrxK/view?usp=sharing)
 
 ## SetUp
 ```
@@ -28,7 +28,7 @@ python train.py or python train.py --type chair
 ```
 
 ## Checkpoints
-Model checkpoints can be downloaded [here](https://drive.google.com/file/d/1nA3Daqh-zH6Abmv8Q9QGE5Tl1VcyCBcr/view?usp=sharing)
+Model checkpoints can be downloaded [here](https://drive.google.com/file/d/1giLbR2HRJHhhMcpujNVjaUdRTlug-Ptm/view?usp=sharing)
 
 ## Citation
 	@misc{hong2021vlgrammar,
